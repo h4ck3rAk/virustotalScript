@@ -5,10 +5,10 @@ from tabulate import tabulate
 from datetime import datetime
 
 # Replace with your VirusTotal API key
-API_KEY = "741b12619156369db7951d7a6941a4d352e671c085442ec537e6aebd16fc1b57"
+API_KEY = "ENTER_YOUR_API_KEY"
 
 # Path to the file containing IOCs (one IOC per line)
-IOCS_FILE_PATH = r"C:\Users\Akshay.rahane\Downloads\URLforTest.txt"
+IOCS_FILE_PATH = r"C:\Users\FILEPATH\FILE.TXT"
   # change this to the appropriate file path
 
 # Check if the file exists
